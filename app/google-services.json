@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858421020942",
+    "project_id": "project-pmob-3d780",
+    "storage_bucket": "project-pmob-3d780.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858421020942:android:15df229f6868348d962f5f",
+        "android_client_info": {
+          "package_name": "com.cicisigit.projekpmob2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCmDeFaH1Rlutgtv_65cQVoNYkhbWQAao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
